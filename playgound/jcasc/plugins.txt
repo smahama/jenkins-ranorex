@@ -1,0 +1,5 @@
+git:latest
+ranorex-integration:latest
+bitbucket:latest
+msbuild:latest
+junit:latest
