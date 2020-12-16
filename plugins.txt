@@ -3,3 +3,14 @@ ranorex-integration:latest
 bitbucket:latest
 msbuild:latest
 junit:latest
+confluence-publisher:latest
+doktor:latest
+email-ext:latest
+javadoc:latest
+jira:latest
+jquery:latest
+Office-365-Connector:latest
+xray-connector:latest
+release-helper:latest
+mercurial:latest
+jira-trigger:latest
